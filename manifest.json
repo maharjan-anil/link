@@ -1,0 +1,24 @@
+{
+  "name": "Link Directory",
+  "short_name": "Links",
+  "description": "Manage and organize your curated links",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%232563eb'/%3E%3Cpath d='M70 106a24 24 0 0 1 0-34l16-16a24 24 0 0 1 34 34' fill='none' stroke='white' stroke-width='16' stroke-linecap='round'/%3E%3Cpath d='M122 86a24 24 0 0 1 0 34l-16 16a24 24 0 0 1-34-34' fill='none' stroke='white' stroke-width='16' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%232563eb'/%3E%3Cpath d='M186 282a64 64 0 0 1 0-90l42-42a64 64 0 0 1 90 90' fill='none' stroke='white' stroke-width='42' stroke-linecap='round'/%3E%3Cpath d='M326 230a64 64 0 0 1 0 90l-42 42a64 64 0 0 1-90-90' fill='none' stroke='white' stroke-width='42' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
